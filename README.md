@@ -18,6 +18,7 @@ See example code for dependencies installation in install directory
 
 Download NWR reference genome from: https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_021442165.1/
 
+Note: The workflow is not specific to the NWR genome and can be used with any other similar chromosome-scale reference genome with a high contiguity. 
 
 ## Installation
 
